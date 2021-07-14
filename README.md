@@ -1,9 +1,9 @@
 # DWDM21
-Data Warehouse &amp; Data Mining 2021
+**Data Warehouse &amp; Data Mining 2021**
 
-นางสาวณิชากร ไชยสุวรรณ 623020521-8
+**นางสาวณิชากร ไชยสุวรรณ 623020521-8**
 
-Group name : Sandbox นะจ๊ะ
+**Group name : Sandbox นะจ๊ะ**
 
 **_1 นางสาวณิชากร ไชยสุวรรณ 623020521-8_**
 
