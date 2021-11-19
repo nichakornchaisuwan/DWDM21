@@ -172,3 +172,10 @@
     - Clustering
     - Exampke Application (Color)
     - เพิ่มเติม
+### MiniExam
+  * [MiniExam](https://github.com/nichakornchaisuwan/DWDM21/blob/main/MiniExam.ipynb)
+
+### Project 
+  * [Project Mid](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Project1.ipynb)
+  * [Project Final](https://github.com/nichakornchaisuwan/DWDM21/blob/main/ProjectFinal.ipynb)
+  * [สไลด์นำเสนอ](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Final%20Project%20DWDM2021.pdf)
