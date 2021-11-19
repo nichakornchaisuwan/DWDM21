@@ -93,9 +93,15 @@
 ### Chapter 2 
 
   * [Basic Pythoon](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data101(chapter2).ipynb)
-    - kde
-    - ec
+    - Variables
+    - Casting int() flat() str()
+    - Data structture
+    - Loop
+    - ลักษณะของ input 
+    - Quiz
   * [Data exploration](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+    - Box plot
+    - Time Series plot
   * [Data Visualization](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data_Visualization.ipynb)
   * [Distance Numpy](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Distance_Numpy.ipynb)
 
