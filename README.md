@@ -87,3 +87,31 @@
     - ตัวอย่างการเรียนฟังก์ชัน AND และ XOR ด้วยกฏเรียนรู้เพอร์เซปตรอน
 
 ### Chapter 8 Cluster Analysis
+
+## ปฏิบัติ 
+
+### Chapter 2 
+
+  * [Basic Pythoon](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data101(chapter2).ipynb)
+    - kde
+    - ec
+  * [Data exploration](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+  * [Data Visualization](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data_Visualization.ipynb)
+  * [Distance Numpy](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Distance_Numpy.ipynb)
+
+### Chapter 3 
+
+  * [Data Preprocessing](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
+ 
+### Chapter 6 
+
+  * [Association Rules](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+
+### Chapter 7 
+
+  * [Classification (Decision Tree)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * [Classification (KNN-NN)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Clssification_(KNN_NN).ipynb)
+  * [Classification (Evaluation)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb)
+
+### Chapter 8
+  * [Clustering](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter8_Clustering.ipynb)
