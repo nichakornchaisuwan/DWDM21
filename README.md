@@ -43,7 +43,7 @@
     - ความหมายของ Distance matrix
     - ความหมายของ Dissimilarity matrix
     - การวัดระยะห่างด้วยวิธีของ Minkowski distance
-   * [Symmetric Binary Variables](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Symmetric%20Binary%20Variables.pdf)
+  * [Symmetric Binary Variables](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Symmetric%20Binary%20Variables.pdf)
     - ความหมายของ Binary 
     - การวัดระยะห่างของข้อมูลประเภท Binary
     - Categorical Attributes
