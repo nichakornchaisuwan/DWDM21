@@ -18,7 +18,7 @@
 
 # สารบัญ 
 
-## ทฤษฎี
+## ภาคทฤษฎี
 
 ### Chapter 1 [Introduction](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data%20Warehouse.pdf)
   
@@ -93,7 +93,7 @@
   * Based Clustering Methods
   * K-means Clustering Method
 
-## ปฏิบัติ 
+## ภาคปฏิบัติ 
 
 ### Chapter 2 
 
