@@ -16,4 +16,22 @@
 **_5 นางสาวภิญญาดา เพ็ญสุข 623021052-2_**
 
 
-**สารบัญ**
+# สารบัญ 
+
+## ทฤษฎี
+
+### Chapter 1 [Introduction](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data%20Warehouse.pdf)
+  
+  * Data Warehouse
+  * Data Mining
+### Chapter 2 Getting to Know Your Data
+
+  * [Getting to Know Your Data](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter2.pdf)
+    
+    - ประเภทของข้อมูล
+    - คุณลักษณะของข้อมูล
+    - Attributes
+    - Attributes Types
+    - Numeric Attributes Types
+    - Discrete Attributes
+    - Continuous Attributes
