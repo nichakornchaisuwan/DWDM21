@@ -24,6 +24,7 @@
   
   * Data Warehouse
   * Data Mining
+  
 ### Chapter 2 Getting to Know Your Data
 
   * [Getting to Know Your Data](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter2.pdf)
@@ -35,3 +36,54 @@
     - Numeric Attributes Types
     - Discrete Attributes
     - Continuous Attributes
+  * [Measuring Data Similarity and Dissimilarity](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Measuring%20Data%20Similarity.pdf)
+    - Similarity measure or similarity function (ความเหมือน)
+    - Dissimilarity (or distance) measure (ความไม่เหมือน)
+    - Proximity (ความต่าง ระยะห่างระหว่างข้อมูล)
+    - ความหมายของ Distance matrix
+    - ความหมายของ Dissimilarity matrix
+    - การวัดระยะห่างด้วยวิธีของ Minkowski distance
+   * [Symmetric Binary Variables](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Symmetric%20Binary%20Variables.pdf)
+    - ความหมายของ Binary 
+    - การวัดระยะห่างของข้อมูลประเภท Binary
+    - Categorical Attributes
+    - วิธีการวัดระยะห่างของแอตทริบิวที่เป็นประเภท
+    - วิธีการวัดความห่างด้ววยมุม
+    
+### Chapter 3 
+  
+  *
+
+### Chapter 6 [Mining Frequent Patterns, Association and Correlations](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter6.pdf)
+
+  * Pattern Discovery คืออะไร
+  * K-Itemsets
+  * Absolute Support
+  * Relative Support 
+  * Association Rules
+  * Apriori
+  
+### Chapter 7 Classification
+  * [Basic Concepts](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter8%20Classification%20Basic%20concepts%20HW14.pdf)
+    - Supervised Learning
+    - Unsupervised Learning
+    - Classification
+    - Numeric prediction
+    - Decision Tree Induction
+    - HW14
+  * [Bayes Classification Methods](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Naive%2CK-NN.pdf)
+    - Bayesian Classification คืออะไร
+    - Naive Bayes Classifier
+    - Traning Dataset
+    - Lazy Learner (K-nearest neighbor approach),(Locally weighted regression),(Case-based reasoning)
+  * [Model Evaluation and Selection](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter8%20Evaluation-and-Selection.pdf)
+    - Confusion Matrix
+    - Accuracy, Error Rate, Sensitivity, Specificity
+    - Percision and Recall, and F-measures
+  * [Neural Network for Classification](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Neural-Network.pdf)
+    - ความหมายของ Neural Network 
+    - เพอร์เซปตรอน
+    - Algorithm Perceptron-Learning-Rule
+    - ตัวอย่างการเรียนฟังก์ชัน AND และ XOR ด้วยกฏเรียนรู้เพอร์เซปตรอน
+
+### Chapter 8 Cluster Analysis
