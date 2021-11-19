@@ -50,9 +50,12 @@
     - วิธีการวัดระยะห่างของแอตทริบิวที่เป็นประเภท
     - วิธีการวัดความห่างด้ววยมุม
     
-### Chapter 3 
+### Chapter 3 [Data Preprocessing](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter3%20Preprocessing.pdf)
   
-  *
+  * Data Cleaning
+  * Data INtegration
+  * Data Reduction and Transformation
+  * Dimensionality Reduction
 
 ### Chapter 6 [Mining Frequent Patterns, Association and Correlations](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter6.pdf)
 
@@ -86,7 +89,9 @@
     - Algorithm Perceptron-Learning-Rule
     - ตัวอย่างการเรียนฟังก์ชัน AND และ XOR ด้วยกฏเรียนรู้เพอร์เซปตรอน
 
-### Chapter 8 Cluster Analysis
+### Chapter 8 [Cluster Analysis](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Evaluation%20%26%20Kmeans.pdf)
+  * Based Clustering Methods
+  * K-means Clustering Method
 
 ## ปฏิบัติ 
 
