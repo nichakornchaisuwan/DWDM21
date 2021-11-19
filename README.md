@@ -103,21 +103,72 @@
     - Box plot
     - Time Series plot
   * [Data Visualization](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data_Visualization.ipynb)
+    - Scatter plot
+    - Bar chart
+    - Histogram
   * [Distance Numpy](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Distance_Numpy.ipynb)
-
+    - Numpy Array(Matrix) จาก list
+      - สร้าง numpy array
+      - สร้าง matrix เริ่มต้น (zeros,ones)
+      - สร้าง matrix random
+      - Indexing & Silcing
+      - Useful function
+    - วนลูป
+    - Distance Matrix
+      - Euclidean Distance (L2-norm)
+      - Distance function
+      - Manhattan Distance (L1-norm)
+    - HW
+     
 ### Chapter 3 
 
   * [Data Preprocessing](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
+    - การชี้ข้อมูลในตาราง
+    - Missing Values
+    - สร้าง list ของ boolean
+    - ต่อตารางแนวแกน Y [PD]
+    - Outlier
+    - Pandaslooping (.iterrows)
+    - การรวมตาราง (ต่อตารางในแนวแกน X)
+    - Group by (Pandas)
+    - [PD] Save ตารางเอาไปใช้ที่อื่น
+    - [PD] การสร้างตาราง
  
 ### Chapter 6 
 
   * [Association Rules](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
-
+    - ลบ Records ที่ถูก Cancel ออกไป
+    - เตรียม Data สำหรับ Fequence Pattern Association Rules
+    - Apriori
+   
 ### Chapter 7 
 
   * [Classification (Decision Tree)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+    - Load data 
+    - Train Model
+    - Plot tree
+    - Evaluation
+    - Advancede Tree
+    - ทดลอง
+    - HW
   * [Classification (KNN-NN)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Clssification_(KNN_NN).ipynb)
+    - Load data 
+    - Split data
+    - Train model
+    - Neural Neteork
   * [Classification (Evaluation)](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb)
+    - Load data
+    - แบ่ง data
+    - สร้าง model ทำนาย
+      -  Import
+      -  Define
+      -  Train
+      -  Evaluation
 
 ### Chapter 8
   * [Clustering](https://github.com/nichakornchaisuwan/DWDM21/blob/main/Chapter8_Clustering.ipynb)
+    - Generate data
+    - Explore data
+    - Clustering
+    - Exampke Application (Color)
+    - เพิ่มเติม
